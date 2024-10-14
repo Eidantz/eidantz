@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">🎯 Data Scientist | Machine Learning Expert | Biomedical Engineer</h3>
+<h3 align="center">🎯 Data Scientist | Biomedical Engineer</h3>
 
 ###
 
