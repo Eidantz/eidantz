@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hello World 👋🌎, I'm Eidan Tzdaka</h1>
+<h1 align="center">Eidan Tzdaka</h1>
 
 ###
 
